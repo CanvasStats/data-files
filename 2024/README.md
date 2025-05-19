@@ -23,7 +23,7 @@ GROUP BY color_name``
 This is the csv file used to serve the user data to Canvas Stats. The columns are username, ranking, total pixels placed, x coordinate of top coordinte, y coordinate of top coordinate, and the number of pixels placed on top coordinate.
 
 ## color_count_2024.csv
-This is the csv file used to serve the color counts for each user to Canvas Stats. The columns are username, black, dark grey, deep grey, medium grey, white, beige, peach, brown, chocolate, rust, orange, yellow,pastel yellow, lime, green, dark green, forest, dark teal, light teal, aqua, azure, blue, navy, purple, mauve, magenta, pink, watermelon, red, rose, maroon, dark chocolate, dark purple
+This is the csv file used to serve the color counts for each user to Canvas Stats. The columns are username, black, dark grey, deep grey, medium grey, white, beige, peach, brown, chocolate, rust, orange, yellow, pastel yellow, lime, green, dark green, forest, dark teal, light teal, aqua, azure, blue, navy, purple, mauve, magenta, pink, watermelon, red, rose, maroon, dark chocolate, dark purple
 
 ## pixels.csv
 This is the csv file used to draw the images of user's pixels on the canvas. The columns are username, x coordinate, y coordinate, color hex
