@@ -1,0 +1,178 @@
+{
+    "timestamp": "2025-06-13 00:15:54",
+    "canvas-x-dimension": 100,
+    "canvas-y-dimension": 100,
+    "percent-covered": "81.78%",
+    "colors": [
+        {
+            "name": "Aqua",
+            "class": "aqua",
+            "count": 312
+        },
+        {
+            "name": "Azure",
+            "class": "azure",
+            "count": 117
+        },
+        {
+            "name": "Beige",
+            "class": "beige",
+            "count": 73
+        },
+        {
+            "name": "Black",
+            "class": "black",
+            "count": 386
+        },
+        {
+            "name": "Blue",
+            "class": "blue",
+            "count": 616
+        },
+        {
+            "name": "Brown",
+            "class": "brown",
+            "count": 107
+        },
+        {
+            "name": "Chocolate",
+            "class": "chocolate",
+            "count": 92
+        },
+        {
+            "name": "Dark Chocolate",
+            "class": "dark-chocolate",
+            "count": 52
+        },
+        {
+            "name": "Dark Green",
+            "class": "dark-green",
+            "count": 124
+        },
+        {
+            "name": "Dark Grey",
+            "class": "dark-grey",
+            "count": 509
+        },
+        {
+            "name": "Dark Purple",
+            "class": "dark-purple",
+            "count": 134
+        },
+        {
+            "name": "Dark Teal",
+            "class": "dark-teal",
+            "count": 75
+        },
+        {
+            "name": "Deep Grey",
+            "class": "deep-grey",
+            "count": 196
+        },
+        {
+            "name": "Forest",
+            "class": "forest",
+            "count": 52
+        },
+        {
+            "name": "Green",
+            "class": "green",
+            "count": 508
+        },
+        {
+            "name": "Light Grey",
+            "class": "light-grey",
+            "count": 773
+        },
+        {
+            "name": "Light Teal",
+            "class": "light-teal",
+            "count": 87
+        },
+        {
+            "name": "Lime",
+            "class": "lime",
+            "count": 108
+        },
+        {
+            "name": "Magenta",
+            "class": "magenta",
+            "count": 276
+        },
+        {
+            "name": "Maroon",
+            "class": "maroon",
+            "count": 85
+        },
+        {
+            "name": "Mauve",
+            "class": "mauve",
+            "count": 105
+        },
+        {
+            "name": "Medium Grey",
+            "class": "medium-grey",
+            "count": 437
+        },
+        {
+            "name": "Navy",
+            "class": "navy",
+            "count": 91
+        },
+        {
+            "name": "Orange",
+            "class": "orange",
+            "count": 492
+        },
+        {
+            "name": "Pastel Yellow",
+            "class": "pastel-yellow",
+            "count": 170
+        },
+        {
+            "name": "Peach",
+            "class": "peach",
+            "count": 86
+        },
+        {
+            "name": "Pink",
+            "class": "pink",
+            "count": 350
+        },
+        {
+            "name": "Purple",
+            "class": "purple",
+            "count": 441
+        },
+        {
+            "name": "Red",
+            "class": "red",
+            "count": 448
+        },
+        {
+            "name": "Rose",
+            "class": "rose",
+            "count": 77
+        },
+        {
+            "name": "Rust",
+            "class": "rust",
+            "count": 136
+        },
+        {
+            "name": "Watermelon",
+            "class": "watermelon",
+            "count": 93
+        },
+        {
+            "name": "White",
+            "class": "white",
+            "count": 1822
+        },
+        {
+            "name": "Yellow",
+            "class": "yellow",
+            "count": 570
+        }
+    ]
+}
