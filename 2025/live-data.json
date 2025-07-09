@@ -1,17 +1,11 @@
 {
-    "timestamp": "2025-07-09 16:50:25",
+    "timestamp": "2025-07-09 17:05:01",
     "canvasXDimension": 500,
     "canvasYDimension": 500,
-    "percentCovered": "0.2%",
-    "updates": 18,
-    "usersOnline": 11,
+    "percentCovered": "0%",
+    "updates": 19,
+    "usersOnline": 3,
     "mostUsersOnline": 11,
     "mostUsersOnlineTime": "2025-07-09 16:46:33",
-    "colors": [
-        {
-            "name": "Black",
-            "className": "black",
-            "count": 500
-        }
-    ]
+    "colors": []
 }
