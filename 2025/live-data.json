@@ -1,11 +1,72 @@
 {
-    "timestamp": "2025-07-09 18:25:01",
+    "timestamp": "2025-07-10 13:24:34",
     "canvasXDimension": 500,
     "canvasYDimension": 500,
     "percentCovered": "0%",
-    "updates": 26,
-    "usersOnline": 5,
+    "updates": 4,
+    "usersOnline": 11,
     "mostUsersOnline": 11,
-    "mostUsersOnlineTime": "2025-07-09 16:46:33",
-    "colors": []
+    "mostUsersOnlineTime": "2025-07-10 13:13:35",
+    "colors": [
+        {
+            "name": "Dark Grey",
+            "className": "dark-grey",
+            "count": 248179
+        },
+        {
+            "name": "Light Grey",
+            "className": "light-grey",
+            "count": 653
+        },
+        {
+            "name": "Navy",
+            "className": "navy",
+            "count": 382
+        },
+        {
+            "name": "Chocolate",
+            "className": "chocolate",
+            "count": 269
+        },
+        {
+            "name": "Peach",
+            "className": "peach",
+            "count": 107
+        },
+        {
+            "name": "Maroon",
+            "className": "maroon",
+            "count": 99
+        },
+        {
+            "name": "Brown",
+            "className": "brown",
+            "count": 93
+        },
+        {
+            "name": "Medium Grey",
+            "className": "medium-grey",
+            "count": 71
+        },
+        {
+            "name": "Beige",
+            "className": "beige",
+            "count": 54
+        },
+        {
+            "name": "Dark Teal",
+            "className": "dark-teal",
+            "count": 48
+        },
+        {
+            "name": "Dark Chocolate",
+            "className": "dark-chocolate",
+            "count": 39
+        },
+        {
+            "name": "Pink",
+            "className": "pink",
+            "count": 6
+        }
+    ]
 }
