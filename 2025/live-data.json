@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-07-11 13:03:44",
+    "timestamp": "2025-07-11 13:19:07",
     "canvasXDimension": 500,
     "canvasYDimension": 500,
-    "percentCovered": "7.11%",
-    "updates": 14,
+    "percentCovered": "1.2%",
+    "updates": 15,
     "usersOnline": 34,
     "mostUsersOnline": 596,
     "mostUsersOnlineTime": "2025-07-10 17:07:09",
@@ -11,7 +11,7 @@
         {
             "name": "Black",
             "className": "black",
-            "count": 17776
+            "count": 3000
         }
     ]
 }
