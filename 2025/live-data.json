@@ -1,67 +1,92 @@
 {
-    "timestamp": "2025-07-12 00:12:18",
+    "timestamp": "2025-07-12 00:15:06",
     "canvasXDimension": 500,
     "canvasYDimension": 500,
-    "percentCovered": "2.04%",
-    "updates": 1,
-    "usersOnline": null,
-    "mostUsersOnline": null,
-    "mostUsersOnlineTime": "2025-07-12 00:12:18",
+    "percentCovered": "2.1%",
+    "updates": 2,
+    "usersOnline": 90,
+    "mostUsersOnline": 90,
+    "mostUsersOnlineTime": "2025-07-12 00:15:06",
     "colors": [
         {
             "name": "Black",
             "className": "black",
-            "count": 5005
+            "count": 5042
         },
         {
             "name": "Dark Purple",
             "className": "dark-purple",
-            "count": 23
-        },
-        {
-            "name": "Navy",
-            "className": "navy",
-            "count": 18
-        },
-        {
-            "name": "Magenta",
-            "className": "magenta",
-            "count": 16
-        },
-        {
-            "name": "Medium Grey",
-            "className": "medium-grey",
-            "count": 11
+            "count": 29
         },
         {
             "name": "Dark Grey",
             "className": "dark-grey",
-            "count": 10
+            "count": 28
+        },
+        {
+            "name": "Magenta",
+            "className": "magenta",
+            "count": 27
+        },
+        {
+            "name": "Navy",
+            "className": "navy",
+            "count": 25
+        },
+        {
+            "name": "Medium Grey",
+            "className": "medium-grey",
+            "count": 20
         },
         {
             "name": "Yellow",
             "className": "yellow",
-            "count": 4
-        },
-        {
-            "name": "Dark Chocolate",
-            "className": "dark-chocolate",
-            "count": 3
-        },
-        {
-            "name": "Orange",
-            "className": "orange",
-            "count": 3
-        },
-        {
-            "name": "Deep Grey",
-            "className": "deep-grey",
-            "count": 2
+            "count": 14
         },
         {
             "name": "Peach",
             "className": "peach",
-            "count": 2
+            "count": 12
+        },
+        {
+            "name": "Chocolate",
+            "className": "chocolate",
+            "count": 9
+        },
+        {
+            "name": "Dark Teal",
+            "className": "dark-teal",
+            "count": 9
+        },
+        {
+            "name": "Orange",
+            "className": "orange",
+            "count": 8
+        },
+        {
+            "name": "Red",
+            "className": "red",
+            "count": 8
+        },
+        {
+            "name": "Deep Grey",
+            "className": "deep-grey",
+            "count": 5
+        },
+        {
+            "name": "Blue",
+            "className": "blue",
+            "count": 5
+        },
+        {
+            "name": "Dark Chocolate",
+            "className": "dark-chocolate",
+            "count": 4
+        },
+        {
+            "name": "Pastel Yellow",
+            "className": "pastel-yellow",
+            "count": 4
         },
         {
             "name": "Mauve",
@@ -69,13 +94,13 @@
             "count": 2
         },
         {
-            "name": "Red",
-            "className": "red",
+            "name": "Forest",
+            "className": "forest",
             "count": 2
         },
         {
-            "name": "Dark Teal",
-            "className": "dark-teal",
+            "name": "Dark Green",
+            "className": "dark-green",
             "count": 1
         }
     ]
