@@ -1,11 +1,82 @@
 {
-    "timestamp": "2025-07-12 00:00:00",
+    "timestamp": "2025-07-12 00:12:18",
     "canvasXDimension": 500,
     "canvasYDimension": 500,
-    "percentCovered": "0%",
-    "updates": 0,
-    "usersOnline": 0,
-    "mostUsersOnline": 0,
-    "mostUsersOnlineTime": "2025-07-12 00:00:00",
-    "colors": []
+    "percentCovered": "2.04%",
+    "updates": 1,
+    "usersOnline": null,
+    "mostUsersOnline": null,
+    "mostUsersOnlineTime": "2025-07-12 00:12:18",
+    "colors": [
+        {
+            "name": "Black",
+            "className": "black",
+            "count": 5005
+        },
+        {
+            "name": "Dark Purple",
+            "className": "dark-purple",
+            "count": 23
+        },
+        {
+            "name": "Navy",
+            "className": "navy",
+            "count": 18
+        },
+        {
+            "name": "Magenta",
+            "className": "magenta",
+            "count": 16
+        },
+        {
+            "name": "Medium Grey",
+            "className": "medium-grey",
+            "count": 11
+        },
+        {
+            "name": "Dark Grey",
+            "className": "dark-grey",
+            "count": 10
+        },
+        {
+            "name": "Yellow",
+            "className": "yellow",
+            "count": 4
+        },
+        {
+            "name": "Dark Chocolate",
+            "className": "dark-chocolate",
+            "count": 3
+        },
+        {
+            "name": "Orange",
+            "className": "orange",
+            "count": 3
+        },
+        {
+            "name": "Deep Grey",
+            "className": "deep-grey",
+            "count": 2
+        },
+        {
+            "name": "Peach",
+            "className": "peach",
+            "count": 2
+        },
+        {
+            "name": "Mauve",
+            "className": "mauve",
+            "count": 2
+        },
+        {
+            "name": "Red",
+            "className": "red",
+            "count": 2
+        },
+        {
+            "name": "Dark Teal",
+            "className": "dark-teal",
+            "count": 1
+        }
+    ]
 }
