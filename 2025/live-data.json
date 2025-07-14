@@ -1,162 +1,162 @@
 {
-    "timestamp": "2025-07-13 21:30:04",
+    "timestamp": "2025-07-13 21:40:04",
     "canvasXDimension": 500,
     "canvasYDimension": 500,
-    "percentCovered": "83.12%",
-    "updates": 271,
-    "usersOnline": 147,
+    "percentCovered": "83.27%",
+    "updates": 272,
+    "usersOnline": 146,
     "mostUsersOnline": 230,
     "mostUsersOnlineTime": "2025-07-12 17:00:03",
     "colors": [
         {
             "name": "Black",
             "className": "black",
-            "count": 37401
+            "count": 37387
         },
         {
             "name": "Blue",
             "className": "blue",
-            "count": 14302
+            "count": 14350
         },
         {
             "name": "Red",
             "className": "red",
-            "count": 13569
+            "count": 13520
         },
         {
             "name": "Yellow",
             "className": "yellow",
-            "count": 12912
+            "count": 12940
         },
         {
             "name": "Azure",
             "className": "azure",
-            "count": 8940
+            "count": 8948
         },
         {
             "name": "Light Grey",
             "className": "light-grey",
-            "count": 8232
+            "count": 8245
         },
         {
             "name": "Aqua",
             "className": "aqua",
-            "count": 8070
+            "count": 8195
         },
         {
             "name": "Medium Grey",
             "className": "medium-grey",
-            "count": 8058
+            "count": 8056
         },
         {
             "name": "Dark Green",
             "className": "dark-green",
-            "count": 7381
+            "count": 7400
         },
         {
             "name": "Dark Grey",
             "className": "dark-grey",
-            "count": 6715
+            "count": 6722
         },
         {
             "name": "Navy",
             "className": "navy",
-            "count": 6032
+            "count": 6068
         },
         {
             "name": "Dark Purple",
             "className": "dark-purple",
-            "count": 5789
+            "count": 5832
         },
         {
             "name": "Deep Grey",
             "className": "deep-grey",
-            "count": 5714
+            "count": 5713
         },
         {
             "name": "Pink",
             "className": "pink",
-            "count": 5441
+            "count": 5448
         },
         {
             "name": "Purple",
             "className": "purple",
-            "count": 5249
+            "count": 5242
         },
         {
             "name": "Pastel Yellow",
             "className": "pastel-yellow",
-            "count": 4740
+            "count": 4746
         },
         {
             "name": "Brown",
             "className": "brown",
-            "count": 4553
+            "count": 4567
         },
         {
             "name": "Rose",
             "className": "rose",
-            "count": 3970
+            "count": 3966
         },
         {
             "name": "Dark Teal",
             "className": "dark-teal",
-            "count": 3832
+            "count": 3831
         },
         {
             "name": "Chocolate",
             "className": "chocolate",
-            "count": 3760
+            "count": 3762
         },
         {
             "name": "Green",
             "className": "green",
-            "count": 3460
+            "count": 3476
         },
         {
             "name": "Rust",
             "className": "rust",
-            "count": 3205
+            "count": 3204
         },
         {
             "name": "Beige",
             "className": "beige",
-            "count": 3195
+            "count": 3194
         },
         {
             "name": "Magenta",
             "className": "magenta",
-            "count": 3029
+            "count": 3026
         },
         {
             "name": "Orange",
             "className": "orange",
-            "count": 3000
+            "count": 3003
         },
         {
             "name": "Light Teal",
             "className": "light-teal",
-            "count": 2586
-        },
-        {
-            "name": "Dark Chocolate",
-            "className": "dark-chocolate",
-            "count": 2514
+            "count": 2583
         },
         {
             "name": "Lime",
             "className": "lime",
-            "count": 2478
+            "count": 2561
+        },
+        {
+            "name": "Dark Chocolate",
+            "className": "dark-chocolate",
+            "count": 2513
         },
         {
             "name": "Forest",
             "className": "forest",
-            "count": 2171
+            "count": 2173
         },
         {
             "name": "Peach",
             "className": "peach",
-            "count": 2003
+            "count": 2000
         },
         {
             "name": "Maroon",
@@ -166,7 +166,7 @@
         {
             "name": "Watermelon",
             "className": "watermelon",
-            "count": 1841
+            "count": 1833
         },
         {
             "name": "Mauve",
