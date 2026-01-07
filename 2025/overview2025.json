@@ -68,37 +68,37 @@
                 {
                     "label": "Light Grey",
                     "count": 11099,
-                    "class": "light grey",
+                    "class": "light-grey",
                     "hex": "#B9C3CF"
                 },
                 {
                     "label": "Medium Grey",
                     "count": 10523,
-                    "class": "medium grey",
+                    "class": "medium-grey",
                     "hex": "#777F8C"
                 },
                 {
                     "label": "Dark Green",
                     "count": 10519,
-                    "class": "dark green",
+                    "class": "dark-green",
                     "hex": "#18862F"
                 },
                 {
                     "label": "Dark Grey",
                     "count": 8519,
-                    "class": "dark grey",
+                    "class": "dark-grey",
                     "hex": "#1F1E26"
                 },
                 {
                     "label": "Dark Purple",
                     "count": 8464,
-                    "class": "dark purple",
+                    "class": "dark-purple",
                     "hex": "#531D8C"
                 },
                 {
                     "label": "Deep Grey",
                     "count": 7658,
-                    "class": "deep grey",
+                    "class": "deep-grey",
                     "hex": "#424651"
                 },
                 {
@@ -122,7 +122,7 @@
                 {
                     "label": "Pastel Yellow",
                     "count": 5991,
-                    "class": "pastel yellow",
+                    "class": "pastel-yellow",
                     "hex": "#FFFFA5"
                 },
                 {
@@ -152,7 +152,7 @@
                 {
                     "label": "Dark Teal",
                     "count": 4431,
-                    "class": "dark teal",
+                    "class": "dark-teal",
                     "hex": "#16777E"
                 },
                 {
@@ -194,13 +194,13 @@
                 {
                     "label": "Light Teal",
                     "count": 2980,
-                    "class": "light teal",
+                    "class": "light-teal",
                     "hex": "#01BFA5"
                 },
                 {
                     "label": "Dark Chocolate",
                     "count": 2884,
-                    "class": "dark chocolate",
+                    "class": "dark-chocolate",
                     "hex": "#382215"
                 },
                 {
@@ -232,7 +232,7 @@
         {
             "type": "standard",
             "layout": "right",
-            "icon": " layers",
+            "icon": "layers",
             "content": [
                 "225444 are the final pixels on the canvas, making the canvas 90.1776% covered at the end of the event. (Up 8.3684% from 2024)"
             ]
@@ -246,7 +246,7 @@
         {
             "type": "standard",
             "layout": "right",
-            "icon": " kid_star ",
+            "icon": "kid_star",
             "content": [
                 "158 pixels were placed at (304, 40) making it the coordinate with the most pixels"
             ]
@@ -329,7 +329,7 @@
         {
             "type": "standard",
             "layout": "right",
-            "icon": " undo ",
+            "icon": "undo",
             "content": [
                 "4969 pixels were undone by 360 users. (Down 10,755 pixels from 2024)"
             ]
@@ -337,7 +337,7 @@
         {
             "type": "standard",
             "layout": "left",
-            "icon": "  delete_forever  ",
+            "icon": "delete_forever",
             "content": [
                 "0 users undid every pixel they placed. (Last year there were 13 users)"
             ]
