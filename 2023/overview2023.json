@@ -1,0 +1,138 @@
+{
+    "year": 2023,
+    "blocks": [
+        {
+            "type": "standard",
+            "layout": "left",
+            "icon": "person",
+            "content": [
+                "2204 users from 132 instances placed pixels on the canvas in 2023"
+            ]
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "grid_view",
+            "content": [
+                "628416 total pixels placed on the canvas"
+            ]
+        },
+        {
+            "type": "color-grid",
+            "title": "Pixels by color",
+            "layout": "left",
+            "data": []
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "layers",
+            "content": [
+                "541666 are the final pixels on the canvas, making the canvas 54.1666% covered at the end of the event"
+            ]
+        },
+        {
+            "type": "graph",
+            "title": "Pixels placed per minute",
+            "layout": "left",
+            "imageUrl": "https://raw.githubusercontent.com/TheRealMonte/images/main/2023/graphs/pixels-placed-per-minute.png"
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "kid_star",
+            "content": [
+                "170 pixels were placed at (175, 171) making it the coordinate with the most pixels"
+            ]
+        },
+        {
+            "type": "list",
+            "title": "The users that contributed to the top pixel were:",
+            "layout": "left",
+            "items": [
+                {
+                    "contentKey": "Depress_mode@lemmy.world",
+                    "contentValue": "83 times"
+                },
+                {
+                    "contentKey": "Kalcifer@lemmy.world",
+                    "contentValue": "77 times"
+                },
+                {
+                    "contentKey": "anonymous1691293996@lemmy.world",
+                    "contentValue": "4 times"
+                },
+                {
+                    "contentKey": "anonymous1691294527@lemmy.world",
+                    "contentValue": "3 times"
+                },
+                {
+                    "contentKey": "anonymous1691296202@lemmy.world",
+                    "contentValue": "1 time"
+                },
+                {
+                    "contentKey": "bstix@feddit.dk",
+                    "contentValue": "1 time"
+                },
+                {
+                    "contentKey": "Wilker@lemmy.blahaj.zone",
+                    "contentValue": "1 time"
+                }
+            ]
+        },
+        {
+            "type": "graph",
+            "title": "Pixel Heat Map",
+            "layout": "right",
+            "imageUrl": "https://raw.githubusercontent.com/TheRealMonte/images/main/2023/graphs/heatmap-with-legend.png"
+        },
+        {
+            "type": "standard",
+            "layout": "left",
+            "icon": "undo",
+            "content": [
+                "10715 pixels were undone by 1000 users"
+            ]
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "delete_forever",
+            "content": [
+                "4 users undid every pixel they placed"
+            ]
+        },
+        {
+            "type": "button-group",
+            "title": "Generate Custom Canvas Image",
+            "layout": "left",
+            "icon": "dashboard_customize",
+            "buttons": [
+                {
+                    "linkText": "Canvas at end of event",
+                    "classes": "orange",
+                    "page": "/draw",
+                    "queryParams": {"sentFrom": "home", "year": 2023}
+                },
+                {
+                    "linkText": "Just the pixels that where undone",
+                    "class": "magenta",
+                    "classes": "/draw",
+                    "queryParams": {"sentFrom": "home", "year": 2023, "undo": "true"}
+                },
+                {
+                    "linkText": "Reverse Order",
+                    "classes": "navy",
+                    "page": "/draw",
+                    "queryParams": {"sentFrom": "home", "year": 2023, "reverse": "true"}
+                },
+                {
+                    "linkText": "Something Else",
+                    "classes": "forest",
+                    "page": "/advanced-search",
+                    "queryParams": null
+                }
+            ]
+        }
+    ]
+}
