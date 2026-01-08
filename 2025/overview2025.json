@@ -349,34 +349,34 @@
             "icon": "dashboard_customize",
             "buttons": [
                 {
-                    "text": "Canvas at end of event",
-                    "class": "medium-grey",
+                    "linkText": "Canvas at end of event",
+                    "classes": "medium-grey",
                     "page": "/draw",
-                    "params": {"sentFrom": "home", "year": 2025}
+                    "queryParams": {"sentFrom": "home", "year": 2025}
                 },
                 {
-                    "text": "Just the pixels that where undone",
+                    "linkText": "Just the pixels that where undone",
                     "class": "blue",
-                    "page": "/draw",
-                    "params": {"sentFrom": "home", "year": 2025, "undo": "true"}
+                    "classes": "/draw",
+                    "queryParams": {"sentFrom": "home", "year": 2025, "undo": "true"}
                 },
                 {
-                    "text": "Pixels that made it from the \"megatemplate\" to the end of the event",
-                    "class": "dark-green",
+                    "linkText": "Pixels that made it from the \"megatemplate\" to the end of the event",
+                    "classes": "dark-green",
                     "page": "/draw",
-                    "params": {"sentFrom": "home", "year": 2025, "special": "template"}
+                    "queryParams": {"sentFrom": "home", "year": 2025, "special": "template"}
                 },
                 {
-                    "text": "Reverse Order",
-                    "class": "dark-teal",
+                    "linkText": "Reverse Order",
+                    "classes": "dark-teal",
                     "page": "/draw",
-                    "params": {"sentFrom": "home", "year": 2025, "reverse": "true"}
+                    "queryParams": {"sentFrom": "home", "year": 2025, "reverse": "true"}
                 },
                 {
-                    "text": "Something Else",
-                    "class": "brown",
+                    "linkText": "Something Else",
+                    "classes": "brown",
                     "page": "/advanced-search",
-                    "params": null
+                    "queryParams": null
                 }
             ]
         }
