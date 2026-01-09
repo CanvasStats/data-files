@@ -19,7 +19,7 @@
         },
         {
             "type": "color-grid",
-            "title": "Pixels by color",
+            "title": "Pixels by color (Click on a slice to view all the pixels of that color)",
             "layout": "left",
             "data": [
                 [
