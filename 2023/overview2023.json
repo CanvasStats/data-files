@@ -22,200 +22,198 @@
             "title": "Pixels by color (Click on a slice to view all the pixels of that color)",
             "layout": "left",
             "data": [
-                [
-                    {
-                        "label": "Black",
-                        "count": 121862,
-                        "class": "black",
-                        "hex": "#000000"
-                    },
-                    {
-                        "label": "Blue",
-                        "count": 58026,
-                        "class": "blue",
-                        "hex": "#0334BF"
-                    },
-                    {
-                        "label": "Red",
-                        "count": 54855,
-                        "class": "red",
-                        "hex": "#F30F0C"
-                    },
-                    {
-                        "label": "Azure",
-                        "count": 33077,
-                        "class": "azure",
-                        "hex": "#149CFF"
-                    },
-                    {
-                        "label": "Yellow",
-                        "count": 32074,
-                        "class": "yellow",
-                        "hex": "#FDE111"
-                    },
-                    {
-                        "label": "White",
-                        "count": 23617,
-                        "class": "white",
-                        "hex": "#ffffff"
-                    },
-                    {
-                        "label": "Light Grey",
-                        "count": 19997,
-                        "class": "light grey",
-                        "hex": "#B9C3CF"
-                    },
-                    {
-                        "label": "Dark Grey",
-                        "count": 19331,
-                        "class": "dark grey",
-                        "hex": "#1F1E26"
-                    },
-                    {
-                        "label": "Dark Green",
-                        "count": 19041,
-                        "class": "dark green",
-                        "hex": "#18862F"
-                    },
-                    {
-                        "label": "Rust",
-                        "count": 18874,
-                        "class": "rust",
-                        "hex": "#F66E08"
-                    },
-                    {
-                        "label": "Pink",
-                        "count": 18315,
-                        "class": "pink",
-                        "hex": "#FFA4D0"
-                    },
-                    {
-                        "label": "Navy",
-                        "count": 17385,
-                        "class": "navy",
-                        "hex": "#242367"
-                    },
-                    {
-                        "label": "Purple",
-                        "count": 17095,
-                        "class": "purple",
-                        "hex": "#A630D2"
-                    },
-                    {
-                        "label": "Medium Grey",
-                        "count": 15380,
-                        "class": "medium grey",
-                        "hex": "#777F8C"
-                    },
-                    {
-                        "label": "Orange",
-                        "count": 14582,
-                        "class": "orange",
-                        "hex": "#FF9F17"
-                    },
-                    {
-                        "label": "Deep Grey",
-                        "count": 13601,
-                        "class": "deep grey",
-                        "hex": "#424651"
-                    },
-                    {
-                        "label": "Aqua",
-                        "count": 12381,
-                        "class": "aqua",
-                        "hex": "#8DF5FF"
-                    },
-                    {
-                        "label": "Green",
-                        "count": 12366,
-                        "class": "green",
-                        "hex": "#61E021"
-                    },
-                    {
-                        "label": "Rose",
-                        "count": 10791,
-                        "class": "rose",
-                        "hex": "#99011A"
-                    },
-                    {
-                        "label": "Mauve",
-                        "count": 9951,
-                        "class": "mauve",
-                        "hex": "#E973FF"
-                    },
-                    {
-                        "label": "Chocolate",
-                        "count": 9491,
-                        "class": "chocolate",
-                        "hex": "#7C3F20"
-                    },
-                    {
-                        "label": "Forest",
-                        "count": 9253,
-                        "class": "forest",
-                        "hex": "#054523"
-                    },
-                    {
-                        "label": "Pastel Yellow",
-                        "count": 8397,
-                        "class": "pastel yellow",
-                        "hex": "#FFFFA5"
-                    },
-                    {
-                        "label": "Brown",
-                        "count": 8384,
-                        "class": "brown",
-                        "hex": "#C06F37"
-                    },
-                    {
-                        "label": "Watermelon",
-                        "count": 7127,
-                        "class": "watermelon",
-                        "hex": "#FF7872"
-                    },
-                    {
-                        "label": "Peach",
-                        "count": 5668,
-                        "class": "peach",
-                        "hex": "#FEAD6C"
-                    },
-                    {
-                        "label": "Light Teal",
-                        "count": 5596,
-                        "class": "light teal",
-                        "hex": "#01BFA5"
-                    },
-                    {
-                        "label": "Lime",
-                        "count": 5450,
-                        "class": "lime",
-                        "hex": "#B1FF37"
-                    },
-                    {
-                        "label": "Beige",
-                        "count": 4723,
-                        "class": "beige",
-                        "hex": "#FFD2B1"
-                    },
-                    {
-                        "label": "Dark Teal",
-                        "count": 4601,
-                        "class": "dark teal",
-                        "hex": "#16777E"
-                    },
-                    {
-                        "label": "Magenta",
-                        "count": 4430,
-                        "class": "magenta",
-                        "hex": "#F14FB4"
-                    },
-                    {
-                        "label": "Maroon",
-                        "count": 4143,
-                        "class": "maroon",
-                        "hex": "#550022"
-                    }
-                ]
+                {
+                    "label": "Black",
+                    "count": 121862,
+                    "class": "black",
+                    "hex": "#000000"
+                },
+                {
+                    "label": "Blue",
+                    "count": 58026,
+                    "class": "blue",
+                    "hex": "#0334BF"
+                },
+                {
+                    "label": "Red",
+                    "count": 54855,
+                    "class": "red",
+                    "hex": "#F30F0C"
+                },
+                {
+                    "label": "Azure",
+                    "count": 33077,
+                    "class": "azure",
+                    "hex": "#149CFF"
+                },
+                {
+                    "label": "Yellow",
+                    "count": 32074,
+                    "class": "yellow",
+                    "hex": "#FDE111"
+                },
+                {
+                    "label": "White",
+                    "count": 23617,
+                    "class": "white",
+                    "hex": "#ffffff"
+                },
+                {
+                    "label": "Light Grey",
+                    "count": 19997,
+                    "class": "light grey",
+                    "hex": "#B9C3CF"
+                },
+                {
+                    "label": "Dark Grey",
+                    "count": 19331,
+                    "class": "dark grey",
+                    "hex": "#1F1E26"
+                },
+                {
+                    "label": "Dark Green",
+                    "count": 19041,
+                    "class": "dark green",
+                    "hex": "#18862F"
+                },
+                {
+                    "label": "Rust",
+                    "count": 18874,
+                    "class": "rust",
+                    "hex": "#F66E08"
+                },
+                {
+                    "label": "Pink",
+                    "count": 18315,
+                    "class": "pink",
+                    "hex": "#FFA4D0"
+                },
+                {
+                    "label": "Navy",
+                    "count": 17385,
+                    "class": "navy",
+                    "hex": "#242367"
+                },
+                {
+                    "label": "Purple",
+                    "count": 17095,
+                    "class": "purple",
+                    "hex": "#A630D2"
+                },
+                {
+                    "label": "Medium Grey",
+                    "count": 15380,
+                    "class": "medium grey",
+                    "hex": "#777F8C"
+                },
+                {
+                    "label": "Orange",
+                    "count": 14582,
+                    "class": "orange",
+                    "hex": "#FF9F17"
+                },
+                {
+                    "label": "Deep Grey",
+                    "count": 13601,
+                    "class": "deep grey",
+                    "hex": "#424651"
+                },
+                {
+                    "label": "Aqua",
+                    "count": 12381,
+                    "class": "aqua",
+                    "hex": "#8DF5FF"
+                },
+                {
+                    "label": "Green",
+                    "count": 12366,
+                    "class": "green",
+                    "hex": "#61E021"
+                },
+                {
+                    "label": "Rose",
+                    "count": 10791,
+                    "class": "rose",
+                    "hex": "#99011A"
+                },
+                {
+                    "label": "Mauve",
+                    "count": 9951,
+                    "class": "mauve",
+                    "hex": "#E973FF"
+                },
+                {
+                    "label": "Chocolate",
+                    "count": 9491,
+                    "class": "chocolate",
+                    "hex": "#7C3F20"
+                },
+                {
+                    "label": "Forest",
+                    "count": 9253,
+                    "class": "forest",
+                    "hex": "#054523"
+                },
+                {
+                    "label": "Pastel Yellow",
+                    "count": 8397,
+                    "class": "pastel yellow",
+                    "hex": "#FFFFA5"
+                },
+                {
+                    "label": "Brown",
+                    "count": 8384,
+                    "class": "brown",
+                    "hex": "#C06F37"
+                },
+                {
+                    "label": "Watermelon",
+                    "count": 7127,
+                    "class": "watermelon",
+                    "hex": "#FF7872"
+                },
+                {
+                    "label": "Peach",
+                    "count": 5668,
+                    "class": "peach",
+                    "hex": "#FEAD6C"
+                },
+                {
+                    "label": "Light Teal",
+                    "count": 5596,
+                    "class": "light teal",
+                    "hex": "#01BFA5"
+                },
+                {
+                    "label": "Lime",
+                    "count": 5450,
+                    "class": "lime",
+                    "hex": "#B1FF37"
+                },
+                {
+                    "label": "Beige",
+                    "count": 4723,
+                    "class": "beige",
+                    "hex": "#FFD2B1"
+                },
+                {
+                    "label": "Dark Teal",
+                    "count": 4601,
+                    "class": "dark teal",
+                    "hex": "#16777E"
+                },
+                {
+                    "label": "Magenta",
+                    "count": 4430,
+                    "class": "magenta",
+                    "hex": "#F14FB4"
+                },
+                {
+                    "label": "Maroon",
+                    "count": 4143,
+                    "class": "maroon",
+                    "hex": "#550022"
+                }
             ]
         },
         {
