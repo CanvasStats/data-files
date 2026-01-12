@@ -287,7 +287,7 @@
         ]
     },
     {
-            "type": "graph",
+            "type": "image",
             "title": "Pixel Heat Map",
             "layout": "right",
             "url": "https://raw.githubusercontent.com/TheRealMonte/images/main/2024/graphs/heatmap-with-legend.png"
