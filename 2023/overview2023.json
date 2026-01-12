@@ -228,7 +228,7 @@
             "type": "graph",
             "title": "Pixels placed per minute",
             "layout": "left",
-            "imageUrl": "https://raw.githubusercontent.com/TheRealMonte/images/main/2023/graphs/pixels-placed-per-minute.png"
+            "url": "https://raw.githubusercontent.com/CanvasStats/data-files/refs/heads/main/2023/pixelsPerMinute2023.csv"
         },
         {
             "type": "standard",
@@ -277,7 +277,7 @@
             "type": "graph",
             "title": "Pixel Heat Map",
             "layout": "right",
-            "imageUrl": "https://raw.githubusercontent.com/CanvasStats/data-files/refs/heads/main/2023/pixelsPerMinute2023.csv"
+            "url": ""
         },
         {
             "type": "standard",

@@ -241,7 +241,7 @@
             "type": "graph",
             "title": "Pixels placed per minute",
             "layout": "left",
-            "imageUrl": "https://raw.githubusercontent.com/TheRealMonte/images/refs/heads/main/2025/pixelsPerMinute.png"
+            "url": "https://raw.githubusercontent.com/TheRealMonte/images/refs/heads/main/2025/pixelsPerMinute.png"
         },
         {
             "type": "standard",
